@@ -3,7 +3,7 @@
 .classpath
 .factorypath
 
-**/data/
+*/data/
 **/target/
 **/node_modules
 
